@@ -3,7 +3,7 @@
   "private": true,
   "version": "0.0.0",
   "type": "module",
-  "homepage": "https://myusername.github.io/dnd-magic",
+  "homepage": "https://dartandr.github.io/dnd-magic",
   "scripts": {
     "dev": "vite",
     "build": "vite build",
